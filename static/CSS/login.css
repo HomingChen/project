@@ -1,0 +1,27 @@
+.loginBtn {
+    display: flex;
+    align-items: center;
+    height: 40px;
+    width: 300px;
+    font-size: 14px;
+    background-color: #ffffff;
+    border: 1px solid #dadce0;
+    border-radius: 4px;
+    margin: 10px;
+    padding: 10px;
+    cursor: pointer;
+}
+.loginBtn:hover {
+    background-color: #F8FAFE;
+    border: 1px solid #D0DFFA;
+}
+.loginBtn__logo {
+    height: 18px;
+    width: 18px;
+    margin-right: 8px;
+}
+.loginBtn__text {
+    text-align: center;
+    height: 18px;
+    width: 252px;
+}
